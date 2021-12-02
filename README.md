@@ -1,4 +1,4 @@
-### Hay there ! Janitha Prashad Katukenda :wave:
+### Hay there ! I am Janitha Prashad Katukenda :wave:
 <!--
 ![katukenda](https://github-readme-stats.vercel.app/api?username=katukenda&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia)-->
 ![katukenda](https://github-readme-stats.vercel.app/api?username=katukenda&theme=algolia&line_height=24&show_icons=true&hide=stars&include_all_commits=true)![katukenda](https://github-readme-stats.vercel.app/api/top-langs/?username=katukenda&layout=compact&langs_count=6&theme=algolia)
