@@ -1,10 +1,11 @@
-### Hay there ! I am Janitha Prashad Katukenda :wave:
+### Hay there ! I am Janitha Prashad Katukenda <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
 
 <!--
 ![katukenda](https://github-readme-stats.vercel.app/api?username=katukenda&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia)-->
 ![katukenda](https://github-readme-stats.vercel.app/api?username=katukenda&theme=algolia&line_height=24&show_icons=true&hide=stars&include_all_commits=true)![katukenda](https://github-readme-stats.vercel.app/api/top-langs/?username=katukenda&layout=compact&langs_count=6&theme=algolia)
 
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://katukenda.netlify.app/) 
+<img width="100%" height="auto" align="center" src="https://github.com/katukenda/katukenda/blob/main/ezgif.com-gif-maker.gif"/>
+
 <!--
 **katukenda** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
